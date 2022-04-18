@@ -1,16 +1,15 @@
-### Hi there 👋
+## 我的开源项目：
 
-<!--
-**gcbeen/gcbeen** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### 学习规划 
 
-Here are some ideas to get you started:
+- 前端相关 https://github.com/gcbeen/front_end_pro
+- VUE 的 mall 项目 https://github.com/gcbeen/vue_mall_pro
+- Java
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 数据库方向 🔭
+
+- MySQL
+
+### 开发的工具 
+
+- VSCode
