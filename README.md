@@ -6,7 +6,7 @@
 - VUE 的 mall 项目 https://github.com/gcbeen/vue_mall_pro
 - Java
 
-### 数据库方向 🔭
+### 数据库方向
 
 - MySQL
 
